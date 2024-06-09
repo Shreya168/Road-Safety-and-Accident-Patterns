@@ -7,7 +7,9 @@ This project analyzes road accident data to identify patterns and trends, aiming
 
 ### VISULIZATIONS PDF - **https://drive.google.com/file/d/1iAdl4CdHSdiW6j6qXfb81O9vLd41icGj/view?usp=sharing**
 
-### DEMONSTRATION VIDEO LINK -
+### STORIES PDF - **https://drive.google.com/file/d/19lk6lNzukRGVuK8pmyVOHFXF7JEmqPiC/view?usp=sharing**
 
-### PROJECT DOCUMENTATION -
+### DEMONSTRATION VIDEO LINK - **https://drive.google.com/file/d/1wpV9dgnwHS_Es_lN5VFXFHl-aGTIwXd7/view?usp=sharing**
+
+### PROJECT DOCUMENTATION - **https://drive.google.com/file/d/13jfHQDM9qDOG8SpMHiKP47xIaIzUU1Vh/view?usp=sharing**
 
