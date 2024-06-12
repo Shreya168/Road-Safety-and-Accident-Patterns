@@ -5,10 +5,6 @@ This project analyzes road accident data to identify patterns and trends, aiming
 
 ### PROCESSED DATASET LINK - **https://drive.google.com/drive/folders/1hSDDU92ofTwQXO3omqv9Q3gBwTAvd0QK?usp=sharing**
 
-### VISULIZATIONS PDF - **https://drive.google.com/file/d/1iAdl4CdHSdiW6j6qXfb81O9vLd41icGj/view?usp=sharing**
-
-### STORIES PDF - **[https://drive.google.com/file/d/19lk6lNzukRGVuK8pmyVOHFXF7JEmqPiC/view?usp=sharing](https://drive.google.com/file/d/1w1kC3kAcf4NW3aVhoYfLp4qqclfu2Tld/view?usp=sharing)**
-
 ### DEMONSTRATION VIDEO LINK - **https://drive.google.com/file/d/1wpV9dgnwHS_Es_lN5VFXFHl-aGTIwXd7/view?usp=sharing**
 
 ### PROJECT DOCUMENTATION - **https://drive.google.com/file/d/13jfHQDM9qDOG8SpMHiKP47xIaIzUU1Vh/view?usp=sharing**
